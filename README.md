@@ -15,7 +15,8 @@ There is a script for those who want to mass generate accounts using seed phrase
 # LOOKING FOR TESTERS AND USERS
 DM me if you are interested
 Discord: chaosxeras#6295
-(Twitter)[https://twitter.com/CxMaxie]
+
+[Twitter](https://twitter.com/CxMaxie)
 
 # Examples 
 ## Energy & MMR
