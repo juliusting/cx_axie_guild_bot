@@ -121,7 +121,7 @@ Contact me chaosxeras#6295
 
 I thought about how nice it would be if there was a way we could share our axies more easily while retaining control. A decentralised guild? A guild where my trusted aids have access to my assets without those assets actually leaving my control.
 
-To handle the load, I had to automate some tasks. Thank you [ZracheSs] (https://twitter.com/ZracheSs) for opening my eyes to what web3 can be. The payout bot he created was my gateway to web3. I was hooked to learning how to make transactions using code.
+To handle the load, I had to automate some tasks. Thank you [ZracheSs](https://twitter.com/ZracheSs) for opening my eyes to what web3 can be. The payout bot he created was my gateway to web3. I was hooked to learning how to make transactions using code.
 
 **_"Take a leap of faith and trust others. They might surprise you."_**
 
